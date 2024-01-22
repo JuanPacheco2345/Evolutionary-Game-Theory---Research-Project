@@ -77,4 +77,4 @@ and the other gets a payoff of 1. Do you think that both you and Player 2 will g
 payoff which is the stag strategy and is also known as the payoff dominant strategy? Or do you
 think that both you and player 2 will go for the rabbit strategy which has the highest minimal
 payoff and is known as the risk-dominant strategy? Also, put yourself as the spectator do you
-think this game model will converge to a payoff-dominant strategy or risk-dominant strategy
+think this game model will converge to a payoff-dominant strategy or risk-dominant strategy?
