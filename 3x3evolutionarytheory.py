@@ -19,6 +19,7 @@
 import numpy as np
 from scipy.integrate import odeint
 import matplotlib.pyplot as plt
+#Make sure to incldue matplotlib to to be able to graph data points in Jupiter notebook
 
 # Define the function dx that represents the system of ordinary differential equations (ODEs)
 def dx(x, t, A):
