@@ -45,3 +45,5 @@ xs = odeint(func=dx, y0=[1/2, 1/6, 1/8], t=t, args=(A,))
 plt.plot(xs)
 plt.show()
 
+
+#Need to handle duplicates
