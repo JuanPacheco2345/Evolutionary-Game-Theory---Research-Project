@@ -43,6 +43,7 @@ xs = odeint(func=dx, y0=[1/2, 1/6, 1/8], t=t, args=(A,))
 
 # Plot the solutions over time
 plt.plot(xs)
+# Show the graph and point of the recorded data
 plt.show()
 
 
